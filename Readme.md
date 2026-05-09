@@ -1,11 +1,3 @@
-next Readme.md
-
-Here is a **concise, single‑file `README.md`** for your **Tkinter‑mobile‑PFM** app.  
-You can drop this into `pfman_tk/README.md` and it will match the file‑by‑file structure you just built.
-
-***
-
-```markdown
 # PFM – Personal Finance Manager (Tkinter Mobile Edition)
 
 A **single‑user** personal finance manager built with **Python + Tkinter + SQLite**, designed for:
@@ -177,31 +169,9 @@ This is your **only financial data**, so treat it like a ledger.
 
 ## 📝 Extensibility Ideas
 
-You can later extend this app by:
+ToDo:
 
 - wiring **AI‑advice** into the UI (budget vs actual, risk flags),  
 - adding **reports** (monthly summaries, charts),  
 - exporting to **CSV/Excel**,  
 - or adding a small **web app** (FastAPI wrapper) that talks to the same `pfm.db`.
-
-## 📚 References
-
-- Tkinter + SQLite basics –  
-  https://www.w3resource.com/python-exercises/tkinter/  
-- Python GUI + SQLite tutorials –  
-  https://www.geeksforgeeks.org/python/python-tkinter-listbox-widget/  
-- Personal finance trackers with Tkinter –  
-  https://datacoach.in/build-a-personal-budget-tracker-with-tkinter-and-sqlite-in-python/
-```
-
-***
-
-This `README.md` steps your future‑you through:
-
-- what the app is,  
-- how to run it,  
-- what each file does,  
-- and how to keep data safe.
-
-If you want, the **next step** can be a **tiny `start.py`** or **`main.py` comment block** that explains the “launch sequence” for Pydroid specifically.
-
